@@ -1,7 +1,7 @@
 import urllib.request
 import json
 
-# My distance matrix API key is AIzaSyA8255sZkcVX2s9ZHy5Y3603CQFCfOVE-0
+# My distance matrix API key is []
 #
 try:
     res = urllib.request.urlopen("https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=Rockville+MD&destinations=baltimore+md&key=[add key]").read()
