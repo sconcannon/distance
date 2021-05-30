@@ -1,0 +1,5 @@
+# ignore the input and output folders
+data/
+venv/
+.idea/
+
